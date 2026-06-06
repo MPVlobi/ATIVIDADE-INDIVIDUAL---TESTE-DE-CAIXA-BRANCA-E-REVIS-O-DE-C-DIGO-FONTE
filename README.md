@@ -54,6 +54,9 @@ As credenciais do banco de dados estão expostas no código-fonte e as senhas s�
 
 Foram identificadas más práticas como uso de variáveis globais, ausência de encapsulamento e falta de tratamento adequado de erros.
 
+Print Planilha Caixa Branca 
+<img width="662" height="717" alt="image" src="https://github.com/user-attachments/assets/599d1476-da52-416c-a283-7f137c9420d7" />
+
 ---
 
 ## 3. Grafo de Fluxo
